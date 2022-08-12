@@ -1,2 +1,2 @@
 # Atak-Doviz
-Flutter tabanlı Atak Döviz, Atak 'ın finansal çapta döviz ve altın verilerini anlık olarak gösteren bir mobil uygulama projesidir.Planlanan Tamamlanma Tarihi: Eylül 2022
+Flutter tabanlı Atak Döviz projesi finansal çapta dövizsel para birimlerini birbirlerine çevirmeyi sağlayan mobil uygulama projesidir.Planlanan tamamlanma tarihi: Eylül 2022
